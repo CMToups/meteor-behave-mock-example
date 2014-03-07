@@ -1,0 +1,11 @@
+{
+  "name": "behave-mock-example",
+  "description": "A <package> behavior for Behave models.",
+  "homepage": "https://github.com/Meteor-Reaction/behave-mock-example",
+  "author": "Sivli Kestanous",
+  "version": "0.0.1",
+  "git": "https://github.com/Meteor-Reaction/behave-mock-example.git",
+  "packages": {
+  	"behave": "0.0.1"
+  }
+}
